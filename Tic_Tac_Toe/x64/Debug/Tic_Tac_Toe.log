@@ -1,0 +1,18 @@
+﻿  Tic_Tac_Toe.cpp
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Tile\Tile.cpp(10,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Tile\Tile.cpp(10,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Tile\Tile.cpp(11,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Tile\Tile.cpp(11,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Board\Board.cpp(8,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Board\Board.cpp(10,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Game\Game.cpp(99,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\Game\Game.cpp(305,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tic_Tac_Toe.vcxproj -> C:\Users\Oskar\source\repos\PiAA\Mikroprojekt 3\Tic_Tac_Toe\x64\Debug\Tic_Tac_Toe.exe
